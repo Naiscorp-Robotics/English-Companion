@@ -1,3 +1,9 @@
+# User defined
+wandb/
+.venv/
+data/classification
+models/
+results/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
